@@ -1,0 +1,8 @@
+# Hashes of file build rules.
+d57a5305e97acc037b3a825cda099745 CMakeFiles/fetch-translations
+96aabf97da6ec86917244e7fd1d36d74 CMakeFiles/uninstall
+a7891c9101a322db7e60a08e6b78b925 releaseme
+83cdc5c6eb712530a19527d35eb16025 src/CMakeFiles/org.kde.plasma.plasmaqml-plasmoids-metadata-json
+9d1e0c7036308e2d5f600b487eac19ba src/CMakeFiles/plasma_applet_plasmaqml_autogen
+831159015cbfcf2171c7c427418858ff src/metadata.json
+f859049f6cfa82f003a99c7f93210774 src/org.kde.plasma.plasmaqml-plasmoids-metadata.json

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+    <id>org.kde.plasma.plasmaqml</id>
+    <extends>org.kde.plasmashell</extends>
+    <name>plasmaQML</name>
+    <name xml:lang="ar">plasmaQML</name>
+    <name xml:lang="ca@valencia">plasmaQML</name>
+    <name xml:lang="ca">plasmaQML</name>
+    <name xml:lang="cs">plasmaQML</name>
+    <name xml:lang="da">plasmaQML</name>
+    <name xml:lang="de">plasmaQML</name>
+    <name xml:lang="en_GB">plasmaQML</name>
+    <name xml:lang="es">plasmaQML</name>
+    <name xml:lang="et">plasmaQML</name>
+    <name xml:lang="eu">plasmaQML</name>
+    <name xml:lang="fi">plasmaQML</name>
+    <name xml:lang="fr">plasmaQML</name>
+    <name xml:lang="gd">plasmaQML</name>
+    <name xml:lang="gl">plasmaQML</name>
+    <name xml:lang="hu">plasmaQML</name>
+    <name xml:lang="ia">plasmaQML</name>
+    <name xml:lang="id">plasmaQML</name>
+    <name xml:lang="it">plasmaQML</name>
+    <name xml:lang="ko">plasmaQML</name>
+    <name xml:lang="lt">plasmaQML</name>
+    <name xml:lang="nb">plasmaQML</name>
+    <name xml:lang="nl">plasmaQML</name>
+    <name xml:lang="nn">plasmaQML</name>
+    <name xml:lang="pl">plasmaQML</name>
+    <name xml:lang="pt">plasmaQML</name>
+    <name xml:lang="pt_BR">plasmaQML</name>
+    <name xml:lang="ru">plasmaQML</name>
+    <name xml:lang="sk">plasmaQML</name>
+    <name xml:lang="sl">plasmaQML</name>
+    <name xml:lang="sr@ijekavian">plasmaQML</name>
+    <name xml:lang="sr@ijekavianlatin">plasmaQML</name>
+    <name xml:lang="sr@latin">plasmaQML</name>
+    <name xml:lang="sr">plasmaQML</name>
+    <name xml:lang="sv">plasmaQML</name>
+    <name xml:lang="tg">plasmaQML</name>
+    <name xml:lang="tr">plasmaQML</name>
+    <name xml:lang="uk">plasmaQML</name>
+    <name xml:lang="x-test">xxplasmaQMLxx</name>
+    <name xml:lang="zh_CN">plasmaQML</name>
+    <name xml:lang="zh_TW">plasmaQML</name>
+    <summary>what your app does in a few words</summary>
+    <summary xml:lang="ar">ما يفعله تطبيقك ببضع كلمات</summary>
+    <summary xml:lang="ca@valencia">Què fa aquesta aplicació en poques paraules</summary>
+    <summary xml:lang="ca">Què fa aquesta aplicació en poques paraules</summary>
+    <summary xml:lang="da">nogle få ord om hvad din app gør</summary>
+    <summary xml:lang="de">In ein paar Worten, was Ihre Anwendung tut</summary>
+    <summary xml:lang="en_GB">what your app does in a few words</summary>
+    <summary xml:lang="es">lo que hace su aplicación, en pocas palabras</summary>
+    <summary xml:lang="et">Mõne sõnaga, mida rakendus teeb</summary>
+    <summary xml:lang="eu">zure aplikazioak egiten duena hitz gutxitan</summary>
+    <summary xml:lang="fi">ohjelmasi toiminta muutamalla sanalla</summary>
+    <summary xml:lang="fr">que fait votre application en quelques mots</summary>
+    <summary xml:lang="gd">na nì an aplacaid agad ann am beagan fhaclan</summary>
+    <summary xml:lang="gl">o que fai o seu aplicativo en poucas palabras</summary>
+    <summary xml:lang="hu">Írja le néhány szóba, mit csinál az alkalmazása!</summary>
+    <summary xml:lang="ia">cosa tu app face in pauc parolas</summary>
+    <summary xml:lang="id">app apa yang kamu lakukan dalam beberapa kata</summary>
+    <summary xml:lang="it">Cosa fa la tua applicazione in poche parole</summary>
+    <summary xml:lang="ko">프로그램이 하는 일에 대한 간단한 설명</summary>
+    <summary xml:lang="nb">hva programmet gjør, med noen få ord</summary>
+    <summary xml:lang="nl">wat uw app doet in een paar woorden</summary>
+    <summary xml:lang="nn">nokre få ord om kva programmet gjer</summary>
+    <summary xml:lang="pl">w kilku słowach opis co robi twój program</summary>
+    <summary xml:lang="pt">o que faz a sua aplicação, em poucas palavras</summary>
+    <summary xml:lang="pt_BR">breve descrição do que o seu aplicativo faz</summary>
+    <summary xml:lang="ru">Несколько слов о том, что делает ваша программа</summary>
+    <summary xml:lang="sk">čo vaša aplikácia robí v niekoľkých slovách</summary>
+    <summary xml:lang="sl">kaj vaš program dela, v nekaj besedah</summary>
+    <summary xml:lang="sr@ijekavian">Укратко о томе шта ваш програм ради</summary>
+    <summary xml:lang="sr@ijekavianlatin">Ukratko o tome šta vaš program radi</summary>
+    <summary xml:lang="sr@latin">Ukratko o tome šta vaš program radi</summary>
+    <summary xml:lang="sr">Укратко о томе шта ваш програм ради</summary>
+    <summary xml:lang="sv">vad programmet gör med några få ord</summary>
+    <summary xml:lang="tg">Тавсифи мухтасареро нависед, ки барномаи шумо чӣ кор мекунад</summary>
+    <summary xml:lang="tr">uygulamanızın yaptığı şey, birkaç sözcükte</summary>
+    <summary xml:lang="uk">призначення вашої програми у декількох словах</summary>
+    <summary xml:lang="x-test">xxwhat your app does in a few wordsxx</summary>
+    <summary xml:lang="zh_CN">简单几个词概括您的小程序的功能</summary>
+    <summary xml:lang="zh_TW">以數個字描述您的應用程式的用途</summary>
+    <url type="homepage">https://plasma.kde.org/</url>
+    <url type="donation">https://www.kde.org/donate.php?app=org.kde.plasma.plasmaqml</url>
+    <developer_name>%{AUTHOR} &lt;%{EMAIL}&gt;</developer_name>
+    <icon type="stock">applications-system</icon>
+    <project_license>LGPL-2.1+</project_license>
+    <metadata_license>CC0-1.0</metadata_license>
+</component>
